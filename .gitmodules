@@ -1,0 +1,3 @@
+[submodule "packages/atom-keymap-compatible"]
+	path = packages/atom-keymap-compatible
+	url = https://github.com/DavidBadura/atom-keymap-compatible.git
