@@ -12,3 +12,7 @@
     'atom-dark-ui'
     'atom-dark-syntax'
   ]
+  'disabledPackages': [
+    'deprecation-cop'
+  ]
+'linter-jshint': {}
